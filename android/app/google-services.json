@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975043616477",
+    "project_id": "fir-assignmentmodule16",
+    "storage_bucket": "fir-assignmentmodule16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975043616477:android:f20e5814cd9d64b1e90534",
+        "android_client_info": {
+          "package_name": "com.example.flutter_module_16_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrCnIDBkNj9hxtLy4s_jdj1u3VBTZQZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
